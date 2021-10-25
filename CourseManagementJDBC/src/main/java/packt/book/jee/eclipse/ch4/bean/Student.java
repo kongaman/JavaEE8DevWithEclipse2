@@ -1,7 +1,7 @@
 package packt.book.jee.eclipse.ch4.bean;
 
-public class Student extends Person {
-
+public class Student {
+	
 	private String enrolledSince;
 
 	public String getEnrolledSince() {
@@ -11,5 +11,5 @@ public class Student extends Person {
 	public void setEnrolledSince(String enrolledSince) {
 		this.enrolledSince = enrolledSince;
 	}
-	
+
 }

@@ -1,6 +1,6 @@
 package packt.book.jee.eclipse.ch4.bean;
 
-public class Teacher extends Person {
+public class Teacher {
 	
 	private String designation;
 

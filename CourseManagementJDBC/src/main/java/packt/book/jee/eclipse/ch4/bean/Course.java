@@ -1,7 +1,7 @@
 package packt.book.jee.eclipse.ch4.bean;
 
 public class Course {
-	
+
 	private int id;
 	private String name;
 	private int credits;
@@ -24,5 +24,5 @@ public class Course {
 	public void setCredits(int credits) {
 		this.credits = credits;
 	}
-
+	
 }
